@@ -9,3 +9,4 @@ Resources:
 * http://caniuse.com
 * http://learnlayout.com/display.html
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
